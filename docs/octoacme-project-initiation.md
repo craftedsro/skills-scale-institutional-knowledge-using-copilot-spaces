@@ -32,9 +32,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Initial risk assessment completed (top 3-5 risks identified)
+- [ ] Resource availability confirmed with team leads
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Schedule project kickoff meeting
+
+**Transition to Planning:**
+Once approved, use the [Project Kickoff Checklist](templates/project-kickoff-checklist.md) to ensure a comprehensive kickoff and smooth transition into planning.
 
 ## Decision Gate
 Move to planning when:

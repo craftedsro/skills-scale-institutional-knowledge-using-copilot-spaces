@@ -97,6 +97,16 @@ Throughout the project lifecycle, we maintain these essential documents:
 - **Risk Register**: Tracked risks with impact, likelihood, and mitigation plans
 - **Retrospective Notes**: Learnings and action items for continuous improvement
 
+## Templates & Checklists
+
+We provide comprehensive templates to support consistent execution:
+
+- **[Project Kickoff Checklist](templates/project-kickoff-checklist.md)** - Complete guide for starting projects with all critical elements covered
+- **[Risk Management Template](templates/risk-management-template.md)** - Systematic approach to identify, assess, track, and mitigate risks
+- **[Retrospective Template & Facilitation Guide](templates/retrospective-template.md)** - Structured formats and techniques for effective team retrospectives
+
+These templates are referenced throughout the process documentation and can be adapted to your project's specific needs.
+
 ## Using These Docs with Copilot Spaces
 
 To leverage these process documents in your development workflow:
@@ -115,4 +125,4 @@ These process documents are living resources that improve over time. If you have
 
 ---
 
-*This documentation supports issue [#2](https://github.com/craftedsro/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2)*
+*This documentation supports issue [#2](https://github.com/craftedsro/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2). Process improvements and templates added per issue [#5](https://github.com/craftedsro/skills-scale-institutional-knowledge-using-copilot-spaces/issues/5).*

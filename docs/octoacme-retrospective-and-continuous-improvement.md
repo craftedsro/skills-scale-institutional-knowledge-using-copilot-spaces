@@ -12,10 +12,14 @@ After each sprint, release, or important milestone. Also after incidents.
 - Action items (owner, due date)
 - Follow-up on previous action items
 
+For a comprehensive retrospective guide including multiple formats, facilitation techniques, and troubleshooting tips, see the [Retrospective Template & Facilitation Guide](templates/retrospective-template.md).
+
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Always review previous action items first
+- Focus on process and systems, not people (blameless)
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
