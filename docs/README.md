@@ -125,4 +125,4 @@ These process documents are living resources that improve over time. If you have
 
 ---
 
-*This documentation supports issue [#2](https://github.com/craftedsro/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2)*
+*This documentation supports issue [#2](https://github.com/craftedsro/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2). Process improvements and templates added per issue [#5](https://github.com/craftedsro/skills-scale-institutional-knowledge-using-copilot-spaces/issues/5).*
