@@ -16,6 +16,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+For a comprehensive kickoff checklist covering pre-meeting preparation, meeting agenda, and follow-up actions, see the [Project Kickoff Checklist](templates/project-kickoff-checklist.md).
+
 ## Backlog Item Template
 - Title:
 - Description:
